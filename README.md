@@ -5,6 +5,7 @@
 We will use python download: https://www.python.org/
 
 ## Setup and Install
+
 1. Install Python
 - Windows
 - Mac
@@ -24,10 +25,10 @@ pip install selenium
 
 3. Download WebDriver
 
-Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
-Edge:	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-Firefox:	https://github.com/mozilla/geckodriver/releases
-Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+- Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
+- Edge:	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+- Firefox:	https://github.com/mozilla/geckodriver/releases
+- Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
 *_References:_*
 http://selenium-python.readthedocs.io/
