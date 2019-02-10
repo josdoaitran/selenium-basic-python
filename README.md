@@ -33,9 +33,13 @@ pip install selenium
 
 4. Basic SELENIUM with PYTHON
 
-Open browser:
+- Open browser:
 
-Close browser:
+- Navigate to a URL
+```
+driver.get("http://www.google.com")
+```
+- Close browser:
 
 Click on Elemment
 
