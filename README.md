@@ -30,6 +30,11 @@ pip install selenium
 - Firefox:	https://github.com/mozilla/geckodriver/releases
 - Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
+
+4. Basic SELENIUM with PYTHON
+
+
+
 *_References:_*
 http://selenium-python.readthedocs.io/
 
