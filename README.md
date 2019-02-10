@@ -33,7 +33,11 @@ pip install selenium
 
 4. Basic SELENIUM with PYTHON
 
+Open browser:
 
+Close browser:
+
+Click on Elemment
 
 *_References:_*
 http://selenium-python.readthedocs.io/
